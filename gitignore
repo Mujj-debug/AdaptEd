@@ -1,0 +1,22 @@
+# Firebase secrets
+google-services.json
+GoogleService-Info.plist
+
+# Node
+node_modules/
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Environment / API keys
+.env
+*.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
